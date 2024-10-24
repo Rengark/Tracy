@@ -7,7 +7,6 @@ tools/*
 *.swp
 *.obj
 imgui.ini
-
 manual/t*.aux
 manual/t*.log
 manual/t*.out
@@ -18,7 +17,6 @@ manual/t*.bbl
 manual/t*.blg
 manual/t*.fdb_latexmk
 manual/t*.fls
-
 .deps/
 .dirstamp
 /_*/**
@@ -27,4 +25,5 @@ extra/vswhere.exe
 extra/tracy-build
 .cache
 compile_commands.json
-
+profiler/build/_deps
+profiler/build/tracy-profiler.dir
