@@ -7,9 +7,7 @@ tools/*
 *.swp
 *.obj
 imgui.ini
-test/tracy_test
-test/tracy_test.exe
-*/build/unix/*-*
+
 manual/t*.aux
 manual/t*.log
 manual/t*.out
