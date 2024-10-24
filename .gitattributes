@@ -1,1 +1,2 @@
 profiler/** filter=lfs diff=lfs merge=lfs -text
+profiler/build/** filter=lfs diff=lfs merge=lfs -text
